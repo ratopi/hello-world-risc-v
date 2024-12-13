@@ -22,3 +22,4 @@ Enjoy the new world
 
 ratopi
 
+PS: The ecall (together with a7) does the syscall. See https://stackoverflow.com/questions/59800430/risc-v-ecall-syscall-calling-convention-on-pk-linux and `man syscall`
